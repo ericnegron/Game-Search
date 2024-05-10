@@ -1,0 +1,391 @@
+{
+    "id": 58779,
+    "slug": "starfield",
+    "name": "Starfield",
+    "name_original": "Starfield",
+    "description": "<p>Starfield is the first new universe in 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4. In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom as you embark on an epic journey to answer humanity’s greatest mystery.</p>\n<p>The year is 2330. Humanity has ventured beyond our solar system, settling new planets, and living as a spacefaring people. From humble beginnings as a space miner, you will join Constellation – the last group of space explorers seeking rare artifacts throughout the galaxy – and navigate the vast expanse of the Settled Systems in Bethesda Game Studios’ biggest and most ambitious game.</p>",
+    "metacritic": 88,
+    "metacritic_platforms": [
+        {
+            "metascore": 87,
+            "url": "https://www.metacritic.com/game/xbox-series-x/starfield",
+            "platform": {
+                "platform": 186,
+                "name": "Xbox Series S/X",
+                "slug": "xbox-series-x"
+            }
+        },
+        {
+            "metascore": 88,
+            "url": "https://www.metacritic.com/game/pc/starfield",
+            "platform": {
+                "platform": 4,
+                "name": "PC",
+                "slug": "pc"
+            }
+        }
+    ],
+    "released": "2023-09-06",
+    "tba": false,
+    "updated": "2024-05-06T01:52:35",
+    "background_image": "https://media.rawg.io/media/games/ba8/ba82c971336adfd290e4c0eab6504fcf.jpg",
+    "background_image_additional": "https://media.rawg.io/media/screenshots/2c7/2c7a201866e9824b64de58431c28e3e3.jpg",
+    "website": "https://bethesda.net/ru/game/starfield",
+    "rating": 3.26,
+    "rating_top": 3,
+    "ratings": [
+        {
+            "id": 3,
+            "title": "meh",
+            "count": 97,
+            "percent": 35.93
+        },
+        {
+            "id": 4,
+            "title": "recommended",
+            "count": 68,
+            "percent": 25.19
+        },
+        {
+            "id": 5,
+            "title": "exceptional",
+            "count": 53,
+            "percent": 19.63
+        },
+        {
+            "id": 1,
+            "title": "skip",
+            "count": 52,
+            "percent": 19.26
+        }
+    ],
+    "reactions": {
+        "3": 1,
+        "13": 1,
+        "14": 3,
+        "15": 4,
+        "16": 4,
+        "17": 1,
+        "21": 2
+    },
+    "added": 1648,
+    "added_by_status": {
+        "yet": 200,
+        "owned": 365,
+        "beaten": 94,
+        "toplay": 771,
+        "dropped": 144,
+        "playing": 74
+    },
+    "playtime": 23,
+    "screenshots_count": 18,
+    "movies_count": 0,
+    "creators_count": 2,
+    "achievements_count": 100,
+    "parent_achievements_count": 50,
+    "reddit_url": "https://www.reddit.com/r/Starfield/",
+    "reddit_name": "",
+    "reddit_description": "",
+    "reddit_logo": "",
+    "reddit_count": 961,
+    "twitch_count": 36,
+    "youtube_count": 408598,
+    "reviews_text_count": 9,
+    "ratings_count": 261,
+    "suggestions_count": 476,
+    "alternative_names": [],
+    "metacritic_url": "https://www.metacritic.com/game/pc/starfield",
+    "parents_count": 0,
+    "additions_count": 0,
+    "game_series_count": 0,
+    "user_game": null,
+    "reviews_count": 270,
+    "saturated_color": "0f0f0f",
+    "dominant_color": "0f0f0f",
+    "parent_platforms": [
+        {
+            "platform": {
+                "id": 1,
+                "name": "PC",
+                "slug": "pc"
+            }
+        },
+        {
+            "platform": {
+                "id": 3,
+                "name": "Xbox",
+                "slug": "xbox"
+            }
+        }
+    ],
+    "platforms": [
+        {
+            "platform": {
+                "id": 4,
+                "name": "PC",
+                "slug": "pc",
+                "image": null,
+                "year_end": null,
+                "year_start": null,
+                "games_count": 528349,
+                "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+            },
+            "released_at": "2023-09-06",
+            "requirements": {
+                "minimum": "Minimum:\nOS: Windows 10 version 21H1 (10.0.19043)\nProcessor: AMD Ryzen 5 2600X, Intel Core i7-6800K\nMemory: 16 GB RAM\nGraphics: AMD Radeon RX 5700, NVIDIA GeForce 1070 Ti\nDirectX: Version 12\nStorage: 125 GB available space\nAdditional Notes: SSD Required",
+                "recommended": "Recommended:\nOS: Windows 10/11 with updates\nProcessor: AMD Ryzen 5 3600X, Intel i5-10600K\nMemory: 16 GB RAM\nGraphics: AMD Radeon RX 6800 XT, NVIDIA GeForce RTX 2080\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 125 GB available space\nAdditional Notes: SSD Required"
+            }
+        },
+        {
+            "platform": {
+                "id": 186,
+                "name": "Xbox Series S/X",
+                "slug": "xbox-series-x",
+                "image": null,
+                "year_end": null,
+                "year_start": 2020,
+                "games_count": 922,
+                "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+            },
+            "released_at": "2023-09-06",
+            "requirements": {}
+        }
+    ],
+    "stores": [
+        {
+            "id": 976576,
+            "url": "",
+            "store": {
+                "id": 2,
+                "name": "Xbox Store",
+                "slug": "xbox-store",
+                "domain": "microsoft.com",
+                "games_count": 4847,
+                "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+            }
+        },
+        {
+            "id": 701282,
+            "url": "",
+            "store": {
+                "id": 1,
+                "name": "Steam",
+                "slug": "steam",
+                "domain": "store.steampowered.com",
+                "games_count": 91507,
+                "image_background": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg"
+            }
+        }
+    ],
+    "developers": [
+        {
+            "id": 4207,
+            "name": "Bethesda Game Studios",
+            "slug": "bethesda-game-studios",
+            "games_count": 39,
+            "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+        }
+    ],
+    "genres": [
+        {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure",
+            "games_count": 138903,
+            "image_background": "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg"
+        },
+        {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg",
+            "games_count": 55586,
+            "image_background": "https://media.rawg.io/media/games/f99/f9979698c43fd84c3ab69280576dd3af.jpg"
+        }
+    ],
+    "tags": [
+        {
+            "id": 31,
+            "name": "Singleplayer",
+            "slug": "singleplayer",
+            "language": "eng",
+            "games_count": 220522,
+            "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+        },
+        {
+            "id": 40847,
+            "name": "Steam Achievements",
+            "slug": "steam-achievements",
+            "language": "eng",
+            "games_count": 36657,
+            "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Multiplayer",
+            "slug": "multiplayer",
+            "language": "eng",
+            "games_count": 37503,
+            "image_background": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg"
+        },
+        {
+            "id": 40849,
+            "name": "Steam Cloud",
+            "slug": "steam-cloud",
+            "language": "eng",
+            "games_count": 17278,
+            "image_background": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Atmospheric",
+            "slug": "atmospheric",
+            "language": "eng",
+            "games_count": 32548,
+            "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+        },
+        {
+            "id": 24,
+            "name": "RPG",
+            "slug": "rpg",
+            "language": "eng",
+            "games_count": 20341,
+            "image_background": "https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg"
+        },
+        {
+            "id": 118,
+            "name": "Story Rich",
+            "slug": "story-rich",
+            "language": "eng",
+            "games_count": 21003,
+            "image_background": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg"
+        },
+        {
+            "id": 36,
+            "name": "Open World",
+            "slug": "open-world",
+            "language": "eng",
+            "games_count": 7266,
+            "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+        },
+        {
+            "id": 8,
+            "name": "First-Person",
+            "slug": "first-person",
+            "language": "eng",
+            "games_count": 31080,
+            "image_background": "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg"
+        },
+        {
+            "id": 149,
+            "name": "Third Person",
+            "slug": "third-person",
+            "language": "eng",
+            "games_count": 11124,
+            "image_background": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg"
+        },
+        {
+            "id": 32,
+            "name": "Sci-fi",
+            "slug": "sci-fi",
+            "language": "eng",
+            "games_count": 18804,
+            "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+        },
+        {
+            "id": 40845,
+            "name": "Partial Controller Support",
+            "slug": "partial-controller-support",
+            "language": "eng",
+            "games_count": 11441,
+            "image_background": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Exploration",
+            "slug": "exploration",
+            "language": "eng",
+            "games_count": 22367,
+            "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+        },
+        {
+            "id": 97,
+            "name": "Action RPG",
+            "slug": "action-rpg",
+            "language": "eng",
+            "games_count": 6656,
+            "image_background": "https://media.rawg.io/media/games/8d4/8d46786ca86b1d95f3dc7e700e2dc4dd.jpg"
+        },
+        {
+            "id": 69,
+            "name": "Action-Adventure",
+            "slug": "action-adventure",
+            "language": "eng",
+            "games_count": 15920,
+            "image_background": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Space",
+            "slug": "space",
+            "language": "eng",
+            "games_count": 42637,
+            "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        },
+        {
+            "id": 62,
+            "name": "Moddable",
+            "slug": "moddable",
+            "language": "eng",
+            "games_count": 899,
+            "image_background": "https://media.rawg.io/media/games/be9/be9cf02720c9326e11d0fda14518554f.jpg"
+        },
+        {
+            "id": 121,
+            "name": "Character Customization",
+            "slug": "character-customization",
+            "language": "eng",
+            "games_count": 4450,
+            "image_background": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg"
+        },
+        {
+            "id": 77,
+            "name": "Realistic",
+            "slug": "realistic",
+            "language": "eng",
+            "games_count": 5421,
+            "image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+        },
+        {
+            "id": 110,
+            "name": "Cinematic",
+            "slug": "cinematic",
+            "language": "eng",
+            "games_count": 1985,
+            "image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+        },
+        {
+            "id": 241,
+            "name": "Space Sim",
+            "slug": "space-sim",
+            "language": "eng",
+            "games_count": 1821,
+            "image_background": "https://media.rawg.io/media/games/174/1743b3dd185bda4a7be349347d4064df.jpg"
+        }
+    ],
+    "publishers": [
+        {
+            "id": 339,
+            "name": "Bethesda Softworks",
+            "slug": "bethesda-softworks",
+            "games_count": 175,
+            "image_background": "https://media.rawg.io/media/games/5a4/5a4e70bb8a862829dbaa398aa5f66afc.jpg"
+        }
+    ],
+    "esrb_rating": {
+        "id": 4,
+        "name": "Mature",
+        "slug": "mature"
+    },
+    "clip": null,
+    "description_raw": "Starfield is the first new universe in 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4. In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom as you embark on an epic journey to answer humanity’s greatest mystery.\n\nThe year is 2330. Humanity has ventured beyond our solar system, settling new planets, and living as a spacefaring people. From humble beginnings as a space miner, you will join Constellation – the last group of space explorers seeking rare artifacts throughout the galaxy – and navigate the vast expanse of the Settled Systems in Bethesda Game Studios’ biggest and most ambitious game."
+}
